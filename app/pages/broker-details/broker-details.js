@@ -1,7 +1,7 @@
 import {OnInit} from '@angular/core';
 import {Page, NavController, NavParams} from 'ionic-angular';
 import {BrokerService} from '../../services/broker-service';
-
+//Test
 @Page({
     templateUrl: 'build/pages/broker-details/broker-details.html'
 })
